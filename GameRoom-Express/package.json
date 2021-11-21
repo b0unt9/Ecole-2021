@@ -1,0 +1,27 @@
+{
+  "name": "linc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitksh/linc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitksh/linc/issues"
+  },
+  "homepage": "https://github.com/gitksh/linc#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "firebase-admin": "^10.0.0",
+    "helmet": "^4.6.0",
+    "mongoose": "^6.0.13",
+    "nanoid": "^3.1.30"
+  }
+}
